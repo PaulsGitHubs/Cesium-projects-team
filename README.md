@@ -121,7 +121,6 @@ cd cesium-projects-team
 
 ## Team Leaders
 - Paul Savluc - CEO & founder
-- Adam Karabin - COO
 - Havard Lillebo - CTO
 
 ## Team members
