@@ -1,7 +1,5 @@
 # Cesium Team Project Repository  
 
-![OpenQQuantify Banner](https://www.openqquantify.com/static/logo.png)
-
 ![GitHub stars](https://img.shields.io/github/stars/openqquantify/cesium-projects-team?style=social)
 ![License](https://img.shields.io/github/license/openqquantify/cesium-projects-team)
 
